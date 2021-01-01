@@ -1,0 +1,12 @@
+{
+  "name": "mysite",
+  "displayName": "mysite",
+  "expo": {
+    "name": "mysite",
+    "slug": "mysite",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
